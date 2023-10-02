@@ -1,8 +1,10 @@
 #Compute the area of a triangle
-a= 5
-b= 8
-c=4
+b =3
+h =14
+Area = (b+h)/2
+print (Area)
 
-s = (a+b+c)/2
-area = (s*(s-a)*(s-b)*(s-c)) ** 0.5
-print ('The area of Triangle is %0.2f' %area)
+b =int(input("Enter base :"))
+h =int(input("Enter Height :"))
+area =b*h/2
+print (area)
