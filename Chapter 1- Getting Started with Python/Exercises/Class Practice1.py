@@ -1,0 +1,6 @@
+A =input ("Enter Name Here:" )
+print (A)
+B =input ("Enter Father's Name Here")
+print (B)
+C =input ("Enter Hobby")
+print (C)
