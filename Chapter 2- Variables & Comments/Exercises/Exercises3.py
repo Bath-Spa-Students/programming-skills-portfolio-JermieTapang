@@ -1,6 +1,5 @@
 name = "\tJermie Tapang\n"
 
-print ("Unmodified")
 print (name)
 
 print ("\nUsing lstrip():")
