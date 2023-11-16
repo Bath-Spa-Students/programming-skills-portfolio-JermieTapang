@@ -36,4 +36,3 @@ print (place.items())
 
 place = { 'country' : 'Canada', 'city' : 'Manila', 'town' : 'Tugatog'}
 print (place.keys())
-

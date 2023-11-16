@@ -5,4 +5,4 @@ def make_shirt(size='large', message='I want to GO!'):
 
 make_shirt()
 make_shirt(size='medium')
-make_shirt('small', 'LETS stay HERE.')
+make_shirt('small', 'LETS stay HERE!')

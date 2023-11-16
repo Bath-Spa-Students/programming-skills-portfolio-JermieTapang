@@ -5,4 +5,4 @@ def describe_city(city, country='Philippines'):
 
 describe_city('Manila')
 describe_city('Toronto', 'Canada')
-describe_city('Miami')
+describe_city('Tondo')

@@ -1,6 +1,6 @@
 def display_message():
-    """Display a message about what I'm learning."""
-    msg = "I hope you have a nice day today."
+    """Display the message about what you feel."""
+    msg = "I feel happy today."
     print(msg)
 
 display_message()
